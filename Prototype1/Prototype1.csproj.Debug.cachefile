@@ -1,0 +1,16 @@
+Content\Fonts\Debug.xnb
+Content\Management\GameFlow.xnb
+Content\Graphics\Decor\Background01.xnb
+Content\Graphics\Decor\Background02.xnb
+Content\Graphics\Decor\Background03.xnb
+Content\Graphics\Decor\Background04.xnb
+Content\Graphics\Decor\Background05.xnb
+Content\Graphics\Actors\Player.xnb
+Content\Graphics\Actors\WizardSquare.xnb
+Content\Graphics\Actors\Fireball.xnb
+Content\Graphics\Decor\CatCreature.xnb
+Content\Graphics\Decor\HealthBar.xnb
+Content\Graphics\Decor\ControllerDetectScreen.xnb
+Content\Graphics\Decor\TitleScreen.xnb
+Content\Models\rocket.xnb
+Content\Models\rocket_0.xnb
