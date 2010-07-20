@@ -1,4 +1,0 @@
-D:\PROJECTS\Games_creating\Project_ToTheEnd\Prototype1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\PROJECTS\Games_creating\GAMES\Space Shooter\Prototype1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\[TODO] Projects\SpaceShooter\Prototype1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\[TODO] Projects\Games\SpaceShooter\Prototype1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
