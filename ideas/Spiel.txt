@@ -1,0 +1,103 @@
+Inspirationen:
+Drachenbild von den Wallpapers
+Adventkalender auffressen???
+homage an andere klassiker
+upleveln von charakter ala aquaria
+
+Spiele anschaun:
+Aquaria, The Maw, Pixeljunk Shooter
+
+Filme anschauen:
+The Secret of Kells: Stimmung/Feel, Charaktere (Brandan, das Mädchen ausm Wald, der Gelehrte)
+Farseer Romane: Stimmung/Feel, Tragik der Hauptfigur, Mit Tieren kommunizieren
+
+
+Story - Stimmung/Feel:
+The Secret of Kells, Farseer Romane
+
+Story - Timeline TEIL 1/4:
+(Alter)
+(6 Jahre) Der Hauptcharakter "darf noch nichts", er ist "zu jung für einen Hund"
+(1h Spielzeit) "okay, wenn du brav bist -> Hund"
+(2h Spielzeit) HUND
+-Papa stirbt, nachdem er dich beschützt hat
+-Wegrennen durch extrem feindsames Gebiet, Hund beschützt die Hauptfigur, ist im Vergleich zu ihm übermäßig kräftig. Das dreht sich dann zu Ende des Spiels um, wenn der Hund stirbt.
+(3h Spielzeit) ONKEL
+(3.5hSpielzeit) Onkel säuft -> weglaufen mit seinem Schwert
+	Onkel ist ein Held, aber verbittert wg. Tod seines Bruders -> gibt dem Hauptcharakter die Schuld daran
+(5h Spielzeit) ENDE Teil 1
+
+Spielgenre:
+Ein 3D-Action Adventure wie bspw. Dragon Quest oder Nier, 3rd Person
+
+1 Hauptfigur mit Namen, redet auch, hat Persönlichkeit
+Ein Pferd mit Persönlichkeit
+Begleiter: Katze/Hund
+Die Hauptfigur kann mit Tieren reden
+2 Gesellschaftsschichten; Einen Erzähler (Text) Man gehört zur oberen, die "untere" iswt "böse". ;am hat einen tollen Lehrer, wechselt später nach "unten". Der Geschichtenerzähler bleibt aber bei seinem point of view. man will sich an seinen Lehrer wenden, der aber stur bleibt.
+-Wenn man getötet wird (Schwert), wird man auch tatsächlich durchbohrt.
+-vorher Schwert aus der Hand zB -> dann Quicktime Event
+-Wenn Gegner Wolf in der Nähe: "QTE = x mehrmals beim davonlaufen bis man den Radius des Wolfs verlassen hat -> safe, verschnaufen tut man in dem man geht. Sonst wird man beim laufen immerlangsamer (sogar langsamer als gehen)
+
+Character Animations:
+-bei Wand lehnen, Schuhe anschaun/testen
+-Schwert am Rücken verrutscht mit der Zeit -> festzurren
+Nach Kauf oder Verletzung: "asshole"
+-immer fixe (von unten) cam bei shop.
+immer am Ende umdrehen und Reaktion je nach Geschäft - bei Diebstahl, hohen kosten "asshole" - irgendwann hält einen der shopkeeper auf (story)
+-Pferd meldet sich akustisch bei Hunger
+-Warum spielt man Videospiele? Um sich MÄCHTIG zu fühlen. (ala God of War)
+-Ein Feature ist nur dann sinnvoll, wenn es dem Spiel HILFT!
+-WARUM? Rechtfertigung für das Spiel - Etwas zu machen, dass es schon gibt ist sinnfrei, wenn man es nicht besser machen kann.
+
+
+Overlay Menu zum testen -> features dis/enablen -> vector maps die ich runtergeladen habe als Rahmen
+Wasser Demo -> Brunnen kaputt, abdrehen (Quest)
+
+Grafik:
+Einfache 3D Welt
+alle Animationen fürs Maxerl
+Maxl Lowpoly
+
+Loading screen: Tagebucheinträge  (-> Nier) in abhängigkeit vom Spielfortschritt
+Anzeige-System: Wohin als nächstes? Hauptstory immer sofort zu finden (ala Assassins Creed oder GTA)
+Leitern: Selbst aktivieren oder automatisch, wenn man in die Nähe kommt (press A to climb)
+Man hat Magie, darf sie aber nicht nutzen (ala Soldiers Son)
+Von Magie wird man Fett. Bei Nutzen von Magie nimmt man ab.
+
+Waffen/Rüstung: Hand - Leder - Eisen - Stahl - etw. besonderes
+Waffenladen: Nach Tipp kann man selbst etw. eingeben:
+Gültige Begriffe: Mondschwert / Mond schwert / mondschwert / mond schwert (-> Begriffe aus bereits geführen Dialogen abrufbar)
+
+Städte/Dörfer belebt, draussen Wasteland
+Seil/Hängebrücke: Strick durchschneiden als wichtiges Storyelement
+
+Wetter/Wind - als unsichtbares Partikelsystem, dass alle anderen Partikelsysteme beeinflusst
+-> Vulkan
+
+Backlog:
+XML Reader (F)
+Event System (F)
+Spiel Design (P)
+GIT System (A)
+Platform Discussion (P)
+Does not need: Enemies
+
+Iteration 1 (2 weeks: Sa., 24.07.2010)
+"As a developer I want to have a general idea of what the game is about."
+
+Meeting Protokoll: (Sa., 10.07.2010)
+- instant gradification
+- everybody "hates" you
+- picture book (flowers) -logically connected to the world
+- active savepoints:
+	- usable by the main character
+	- expandable through side quests
+		- place multiple save points
+		- travel between save points
+		- get more energy on load
+
+
+Tasks:
+T1: Collect ideas into a single log (2x2hrs)
+T2: Filter and group ideas (2x3hrs)
