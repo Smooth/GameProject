@@ -16,7 +16,7 @@ namespace GameProject
         Vector2 mSpeed;
         Vector2 mDirection;
 
-        const string FIREBALL_ASSETNAME = "Graphics\\Actors\\Fireball";
+        const string FIREBALL_ASSETNAME = "Actors\\2D\\Fireball";
 
 
         //public void Initialize(Game1 game, Matrix view, Matrix projection)

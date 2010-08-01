@@ -42,92 +42,89 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Management\GameFlow.xml">
+    <Compile Include="Setup\GameFlow.xml">
       <Name>GameFlow</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Graphics\Decor\Background01.png">
+    <Compile Include="Background\Background01.png">
       <Name>Background01</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Graphics\Decor\Background02.png">
+    <Compile Include="Background\Background02.png">
       <Name>Background02</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Graphics\Decor\Background03.png">
+    <Compile Include="Background\Background03.png">
       <Name>Background03</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Graphics\Decor\Background04.png">
+    <Compile Include="Background\Background04.png">
       <Name>Background04</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Graphics\Decor\Background05.png">
+    <Compile Include="Background\Background05.png">
       <Name>Background05</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Graphics\Actors\Player.png">
+    <Compile Include="Actors\2D\Player.png">
       <Name>Player</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\rocket.fbx">
-      <Name>rocket</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="Graphics\Actors\WizardSquare.png">
+    <Compile Include="Actors\2D\WizardSquare.png">
       <Name>WizardSquare</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Graphics\Actors\Fireball.png">
+    <Compile Include="Actors\2D\Fireball.png">
       <Name>Fireball</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Graphics\Decor\CatCreature.png">
+    <Compile Include="Background\CatCreature.png">
       <Name>CatCreature</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Graphics\Decor\HealthBar.png">
+    <Compile Include="Background\HealthBar.png">
       <Name>HealthBar</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Graphics\Decor\ControllerDetectScreen.png">
+    <Compile Include="Background\ControllerDetectScreen.png">
       <Name>ControllerDetectScreen</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="Graphics\Decor\TitleScreen.png">
+    <Compile Include="Background\TitleScreen.png">
       <Name>TitleScreen</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Actors\3D\" />
+    <Folder Include="Audio\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\v3.0\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

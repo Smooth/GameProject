@@ -47,13 +47,13 @@ namespace GameProject
 
         Wizard mWizardSprite;
         Texture2D mCatCreature;
-        const string CAT_ASSETNAME = "Graphics\\Decor\\CatCreature";
+        const string CAT_ASSETNAME = "Background\\CatCreature";
         int mAlphaValue = 1;
         int mFadeIncrement = 3;
         double mFadeDelay = .01;
 
         Texture2D mHealthBar;
-        const string HEALTH_ASSETNAME = "Graphics\\Decor\\HealthBar";
+        const string HEALTH_ASSETNAME = "Background\\HealthBar";
         int mCurrentHealth = 100;
 
         //Background textures for the various screens in the game
@@ -156,18 +156,18 @@ namespace GameProject
 
             // Create background object and add images
             background = new Background2D(this.GraphicsDevice.Viewport);
-            background.AddBackground("Graphics\\Decor\\Background01");
-            background.AddBackground("Graphics\\Decor\\Background02");
-            background.AddBackground("Graphics\\Decor\\Background03");
-            background.AddBackground("Graphics\\Decor\\Background04");
-            background.AddBackground("Graphics\\Decor\\Background05");
+            background.AddBackground("Background\\Background01");
+            background.AddBackground("Background\\Background02");
+            background.AddBackground("Background\\Background03");
+            background.AddBackground("Background\\Background04");
+            background.AddBackground("Background\\Background05");
 
             // Load background images
             background.LoadContent(this.Content);
 
             //Load the screen backgrounds
-            mControllerDetectScreenBackground = aLoader.Load<Texture2D>("Graphics\\Decor\\ControllerDetectScreen") as Texture2D;
-            mTitleScreenBackground = aLoader.Load<Texture2D>("Graphics\\Decor\\TitleScreen") as Texture2D;
+            mControllerDetectScreenBackground = aLoader.Load<Texture2D>("Background\\ControllerDetectScreen") as Texture2D;
+            mTitleScreenBackground = aLoader.Load<Texture2D>("Background\\TitleScreen") as Texture2D;
 
             ////Initialize the screen state variables
             //mIsTitleScreenShown = false;
@@ -182,7 +182,7 @@ namespace GameProject
             //player = new Sprite();
 
             // Load player image
-            //player.LoadContent(this.Content, "Graphics\\Actors\\Player");
+            //player.LoadContent(this.Content, "Actors\\2D\\Player");
 
             
 

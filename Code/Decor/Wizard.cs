@@ -15,7 +15,7 @@ namespace GameProject
 {
     class Wizard : Sprite
     {
-        const string WIZARD_ASSETNAME = "Graphics\\Actors\\WizardSquare";
+        const string WIZARD_ASSETNAME = "Actors\\2D\\WizardSquare";
         const int START_POSITION_X = 125;
         const int START_POSITION_Y = 340;
         const int WIZARD_SPEED = 160;
