@@ -4,3 +4,4 @@ D:\[TODO] Projects\SpaceShooter\Prototype1\Content\obj\x86\Debug\ResolveAssembly
 D:\[TODO] Projects\Games\SpaceShooter\Prototype1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\Development\XNA\Prototype1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\Development\XNA\GameProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\SmoothEEE\GameProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache

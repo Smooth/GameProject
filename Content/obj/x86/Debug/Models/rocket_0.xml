@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>pCylinder1</Name>
     <Identity>
-      <SourceFilename>D:\Development\XNA\GameProject\Content\Models\rocket.fbx</SourceFilename>
+      <SourceFilename>c:\Users\SmoothEEE\GameProject\Content\Models\rocket.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -27,7 +27,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>rocket</Name>
       <Identity>
-        <SourceFilename>D:\Development\XNA\GameProject\Content\Models\rocket.fbx</SourceFilename>
+        <SourceFilename>c:\Users\SmoothEEE\GameProject\Content\Models\rocket.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

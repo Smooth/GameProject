@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Fonts\Debug.xnb</Output>
-      <Time>2009-05-26T23:29:58.203125+02:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Fonts\Debug.xnb</Output>
+      <Time>2010-08-01T15:20:50.962141+02:00</Time>
     </Item>
     <Item>
       <Source>Management\GameFlow.xml</Source>
@@ -16,8 +16,8 @@
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Management\GameFlow.xnb</Output>
-      <Time>2009-05-27T22:59:46.015625+02:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Management\GameFlow.xnb</Output>
+      <Time>2010-08-01T15:20:51.2801592+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Decor\Background01.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Decor\Background01.xnb</Output>
-      <Time>2009-12-03T17:31:13.75+01:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Decor\Background01.xnb</Output>
+      <Time>2010-08-01T15:20:51.0441457+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Decor\Background02.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Decor\Background02.xnb</Output>
-      <Time>2008-09-20T11:51:08+02:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Decor\Background02.xnb</Output>
+      <Time>2010-08-01T15:20:51.0621467+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Decor\Background03.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Decor\Background03.xnb</Output>
-      <Time>2008-09-20T11:51:08+02:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Decor\Background03.xnb</Output>
+      <Time>2010-08-01T15:20:51.1231502+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Decor\Background04.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Decor\Background04.xnb</Output>
-      <Time>2008-09-20T11:51:08+02:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Decor\Background04.xnb</Output>
+      <Time>2010-08-01T15:20:51.137151+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Decor\Background05.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Decor\Background05.xnb</Output>
-      <Time>2008-09-20T11:51:08+02:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Decor\Background05.xnb</Output>
+      <Time>2010-08-01T15:20:51.1511518+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Actors\Player.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Actors\Player.xnb</Output>
-      <Time>2009-12-03T11:42:20.015625+01:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Actors\Player.xnb</Output>
+      <Time>2010-08-01T15:20:50.9901426+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Actors\WizardSquare.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Actors\WizardSquare.xnb</Output>
-      <Time>2008-03-13T21:20:10+01:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Actors\WizardSquare.xnb</Output>
+      <Time>2010-08-01T15:20:51.0211443+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Actors\Fireball.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Actors\Fireball.xnb</Output>
-      <Time>2009-12-10T00:57:10.4157952+01:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Actors\Fireball.xnb</Output>
+      <Time>2010-08-01T15:20:50.9781419+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Decor\CatCreature.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Decor\CatCreature.xnb</Output>
-      <Time>2009-12-10T11:12:02.5436394+01:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Decor\CatCreature.xnb</Output>
+      <Time>2010-08-01T15:20:51.1771533+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Decor\HealthBar.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Decor\HealthBar.xnb</Output>
-      <Time>2009-12-10T12:09:54.098201+01:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Decor\HealthBar.xnb</Output>
+      <Time>2010-08-01T15:20:51.2281562+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Decor\ControllerDetectScreen.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Decor\ControllerDetectScreen.xnb</Output>
-      <Time>2009-03-09T21:58:56+01:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Decor\ControllerDetectScreen.xnb</Output>
+      <Time>2010-08-01T15:20:51.2201557+02:00</Time>
     </Item>
     <Item>
       <Source>Graphics\Decor\TitleScreen.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Graphics\Decor\TitleScreen.xnb</Output>
-      <Time>2009-03-09T21:59:56+01:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Graphics\Decor\TitleScreen.xnb</Output>
+      <Time>2010-08-01T15:20:51.2711586+02:00</Time>
     </Item>
     <Item>
       <Source>Models\rocket.fbx</Source>
@@ -133,20 +133,20 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Models\rocket.xnb</Output>
-      <Time>2009-12-03T16:31:23.375+01:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Models\rocket.xnb</Output>
+      <Time>2010-08-01T15:20:51.3201614+02:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\rocket_0.xml</Key>
-        <Value>2010-08-01T14:02:56.4807307+02:00</Value>
+        <Value>2010-08-01T15:33:02.6059886+02:00</Value>
       </Dependency>
-      <Request>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Models\rocket_0.xnb</Request>
+      <Request>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Models\rocket_0.xnb</Request>
     </Item>
     <Item>
       <Source>Models\rocket.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Models\rocket_0.xml</Output>
-      <Time>2009-12-03T16:31:23.375+01:00</Time>
+      <Time>2010-08-01T15:20:51.3201614+02:00</Time>
     </Item>
     <Item>
       <Source>Models\rocket.png</Source>
@@ -160,43 +160,43 @@
         <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>D:\Development\XNA\GameProject\bin\x86\Debug\Content\Models\rocket_0.xnb</Output>
-      <Time>2009-12-03T17:22:45.328125+01:00</Time>
+      <Output>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\Models\rocket_0.xnb</Output>
+      <Time>2010-08-01T15:20:51.330162+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\Development\XNA\GameProject\Content\</RootDirectory>
-      <LoggerRootDirectory>D:\Development\XNA\GameProject\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\Development\XNA\GameProject\Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\Development\XNA\GameProject\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>c:\Users\SmoothEEE\GameProject\Content\</RootDirectory>
+      <LoggerRootDirectory>c:\Users\SmoothEEE\GameProject\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\Users\SmoothEEE\GameProject\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\Users\SmoothEEE\GameProject\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
         <Value>2009-05-14T11:13:52+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
         <Value>2009-05-14T11:13:52+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
         <Value>2009-05-14T11:13:52+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
         <Value>2009-05-14T11:13:52+02:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
         <Value>2009-05-14T11:13:52+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2010-07-25T19:58:34.1364536+02:00</Value>
+        <Value>2010-07-19T17:06:39.1039615+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
